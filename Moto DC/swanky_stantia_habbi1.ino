@@ -1,6 +1,3 @@
-Aquí tienes el código sin comentarios:
-
-```cpp
 const int sensorTempPin = A0;
 const int motorPin = 11;
 const int ledPin = 10;
