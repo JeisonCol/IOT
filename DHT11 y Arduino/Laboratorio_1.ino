@@ -1,6 +1,6 @@
 /*
 Date: 19-09-2024
-Developer: Jeison Maigual
+Developer: Jeison Maigual - Harold Zambrano
 Sketch: GEt temperature and humidity drom DHT11 Sensor
 
 */
